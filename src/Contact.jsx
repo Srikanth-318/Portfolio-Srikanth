@@ -33,7 +33,7 @@ const Contact = () => {
                                     <div>Send a mail</div>
                         </ContactLinks>
    
-                        <ContactLinks link="https://www.linkedin.com/in/velmurugan-m-33351426a" >
+                        <ContactLinks link="https://www.linkedin.com/in/srikanth-s-4aa019248" >
                                 <IoLogoLinkedin className="text-2xl text-blue-500"/>
                                     LinkedIn
                         </ContactLinks>
