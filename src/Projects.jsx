@@ -60,7 +60,7 @@ function Projects() {
             //projectType: "Spring-Boot",
             //technologies: "Java,HTML,CSS",
             gitHubUrl: "https://github.com/Srikanth-318/Portfolio-Srikanth",
-            projectUrl: "https://weathers-app.up.railway.app",
+            projectUrl: "https://portfolio-srikanth-ten.vercel.app",
         },
 
         
