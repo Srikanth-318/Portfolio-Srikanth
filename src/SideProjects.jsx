@@ -12,6 +12,7 @@ const SideProjects = () => {
 		moviesearch,
 		weatherapp,
         epicnews,
+        portfolio,
 	} = useContext(MyContext);
 
     const sideProjectsDetailsRow1 = [
@@ -22,8 +23,8 @@ const SideProjects = () => {
             projectTitle: "YouTube Clone",
             projectType: "React + Firebase",
             technologies: "React JS, Router, Tailwind CSS, & Redux",
-            gitHubUrl: "https://github.com/Velmurugan-12/youtube_clone",
-            projectUrl: "https://youtube-clone-six-black.vercel.app",
+            gitHubUrl: "https://github.com/Srikanth-318/yt-clone",
+            projectUrl: "https://yt-clone-three-ochre.vercel.app",
         },
 
         {
@@ -32,8 +33,8 @@ const SideProjects = () => {
             projectTitle: "Epic-News",
             projectType: "React + API",
             technologies: "React JS",
-            gitHubUrl: "https://github.com/Velmurugan-12/epic-news",
-            projectUrl: "https://epic-news.vercel.app",
+            gitHubUrl: "https://github.com/Srikanth-318/epic-news",
+            projectUrl: "https://epic-news-nine.vercel.app",
         },
 
 		
@@ -49,8 +50,8 @@ const SideProjects = () => {
             projectTitle: "Weather-App",
             projectType: "Spring-Boot",
             technologies: "Java,HTML,CSS",
-            gitHubUrl: "https://github.com/Velmurugan-12/weather-app",
-            projectUrl: "https://weathers-app.up.railway.app",
+            gitHubUrl: "https://github.com/Srikanth-318/weather-app",
+            projectUrl: "https://weathers-app-check.up.railway.app",
         },
 
         
@@ -60,8 +61,18 @@ const SideProjects = () => {
             projectTitle: "Movie-Search",
             projectType: "React, javaScript",
             technologies: "React JS",
-            gitHubUrl: "https://github.com/Velmurugan-12/movie-search",
-            projectUrl: "https://movie-search-eight-blue.vercel.app",
+            gitHubUrl: "https://github.com/Srikanth-318/movie-search",
+            projectUrl: "https://movie-search-chi-six.vercel.app",
+        },
+
+        {
+            video: portfolio,
+            projectSummary: "portfolio | Preview",
+            projectTitle: "portfolio",
+            //projectType: "Javascript",
+            //technologies: "Java,HTML,CSS",
+            gitHubUrl: "https://github.com/Srikanth-318/Portfolio-Srikanth",
+            projectUrl: "https://weathers-app.up.railway.app/",
         },
     ];
 

@@ -44,7 +44,7 @@ const HeroSection = () => {
         
         <div className="order-2 md:order-1 flex flex-col text-center md:text-left">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-semibold p-3 sm:p-4 mt-2">
-            Hi, I'm Velmurugan
+            Hi, I'm Srikanth
           </h1>
 
           <div className="text-2xl sm:text-3xl mt-2 p-1 sm:p-4 text-gray-400">
@@ -61,7 +61,7 @@ const HeroSection = () => {
 
           
           <div className="flex justify-center md:justify-start gap-4 p-1 sm:p-4 mb-4">
-            <a href="https://github.com/Velmurugan-12" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Srikanth-318" target="_blank" rel="noopener noreferrer">
               <ImGithub className="w-7 h-7 text-gray-400 hover:text-white  transition transform hover:scale-125" />
             </a>
             <a href="https://www.linkedin.com/in/velmurugan-m-33351426a" target="_blank" rel="noopener noreferrer">
@@ -95,13 +95,14 @@ const HeroSection = () => {
         
         <div className="order-1 md:order-2 flex flex-col md:flex-row items-center md:items-start justify-center gap-16 md:gap-24">
           <div className="relative">
-            <img
-              src={profile}
-              alt="Velmurugan"
-              className="w-40 md:w-80 rounded-full object-cover cursor-pointer"
-              onClick={() => navigateTo("/about_me")}
-              title="Tap to know about me!"
-            />
+          <img
+             src={profile}
+             alt="Srikanth"
+             className="w-40 md:w-80 h-40 md:h-80 rounded-full object-cover cursor-pointer"
+             onClick={() => navigateTo("/about_me")}
+             title="Tap to know about me!"
+          />
+
           </div>
 
           

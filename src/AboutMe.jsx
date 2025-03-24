@@ -42,7 +42,7 @@ const AboutMe = () => {
                     <div className='relative lg:h-[calc(140vh-6rem)]'>
                         <img
                             src={profile}
-                            alt='Velmurugan'
+                            alt='srikanth'
                             className='w-60 lg:w-72 h-60 lg:h-72 rounded-full object-cover saturate-[1.1] filter contrast-[1.1] sticky lg:top-24'
                         />
                     </div>
@@ -54,7 +54,7 @@ const AboutMe = () => {
                                 <PiHandWavingFill className="inline mb-1 rotate-12" />{" "}
                                 Hey there,
                             </span>{" "}
-                            I'm Velmurugan, a Java full-stack developer from Chennai, India.  
+                            I'm Srikanth, a Java full-stack developer from Chennai, India.  
                             I hold a {" "}<span className='underline underline-offset-4 font-semibold'>B.E in Computer Science</span>{" "} 
                             from PSNA College of Engineering and Technology.
                         </p>
@@ -110,7 +110,7 @@ const AboutMe = () => {
                             </h1>
 
                             <div className='grid grid-cols-1 md:grid-cols-2 gap-6 leading-7 mt-7'>
-                                <ContactLinks link="mailto:mvelmurugan2192@gmail.com">
+                                <ContactLinks link="mailto:smsri2553@gmail.com">
                                     <MdEmail className="text-2xl text-purple-500"/>
                                     <div>Send a mail</div>
                                 </ContactLinks>
@@ -122,7 +122,7 @@ const AboutMe = () => {
 
                                 <ContactLinks  >
                                     <TbPhoneCall className="text-2xl text-green-500"/>
-                                        9629245653
+                                        7010372443
                                 </ContactLinks>
 
                                 

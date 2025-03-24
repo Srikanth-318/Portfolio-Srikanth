@@ -5,15 +5,15 @@ import HeroSection from "./HeroSection";
 import AboutMe from "./AboutMe";
 import HireMe from "./HireMe";
 import Skills from "./Skills";
-// import Projects from "./Projects";
-// import AllProjects from "./AllProjects";
-// import Contact from "./Contact";
+import Projects from "./Projects";
+import AllProjects from "./AllProjects";
+import Contact from "./Contact";
  import Footer from "./Footer";
  import TapToTop from "./TapToTop";
 
 function App() {
   return (
-    <Router basename="">
+    <Router>
       <Routes>
         <Route
           path="/"
