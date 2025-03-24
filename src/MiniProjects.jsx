@@ -21,16 +21,16 @@ const miniProjectsDetails = [
         video: loginform,
         projectSummary: "Login-form | Preview",
         projectTitle: "LoginForm",
-        gitHubUrl: "https://github.com/Velmurugan-12/login-form",
-        projectUrl: "https://login-form-register-eight.vercel.app",
+        gitHubUrl: "https://github.com/Srikanth-318/login-form",
+        projectUrl: "https://login-form-lyart-theta.vercel.app",
     },
 
 	{
         video: emojigenerator,
         projectSummary: "Emoji-Generator | Preview",
         projectTitle: "Emoji-Generator",
-        gitHubUrl: "https://github.com/Velmurugan-12/emoji-generator",
-        projectUrl: "https://emoji-generator-rose.vercel.app",
+        gitHubUrl: "https://github.com/Srikanth-318/emoji-generator",
+        projectUrl: "https://emoji-generator-beta.vercel.app",
     },
 	{
 		video: imagesearch,
@@ -38,8 +38,8 @@ const miniProjectsDetails = [
 		projectTitle: "Image-Search",
 		//projectType: "React, Tailwindcss",
 		//technologies: "React JS",
-		gitHubUrl: "https://github.com/Velmurugan-12/search-image",
-		projectUrl: "https://search-image-pi.vercel.app",
+		gitHubUrl: "https://github.com/Srikanth-318/image-search",
+		projectUrl: "https://image-search-iota-two.vercel.app",
 	},
 
 	{
@@ -48,8 +48,8 @@ const miniProjectsDetails = [
 		projectTitle: "Qr-Code Generator",
 		//projectType: "React, Tailwindcss",
 		//technologies: "React JS",
-		gitHubUrl: "https://github.com/Velmurugan-12/qr-code",
-		projectUrl: "https://qr-code-nine-indol-67.vercel.app",
+		gitHubUrl: "https://github.com/Srikanth-318/qr-code",
+		projectUrl: "https://qr-code-iota-flax.vercel.app",
 	},
 ]
 
