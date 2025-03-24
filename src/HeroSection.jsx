@@ -64,7 +64,7 @@ const HeroSection = () => {
             <a href="https://github.com/Srikanth-318" target="_blank" rel="noopener noreferrer">
               <ImGithub className="w-7 h-7 text-gray-400 hover:text-white  transition transform hover:scale-125" />
             </a>
-            <a href="https://www.linkedin.com/in/velmurugan-m-33351426a" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/srikanth-s-4aa019248" target="_blank" rel="noopener noreferrer">
               <SiLinkedin className="w-7 h-7 text-gray-400 hover:text-[#0B63BD]  transition transform hover:scale-125" />
             </a>
             
