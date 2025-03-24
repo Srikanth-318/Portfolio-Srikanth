@@ -40,7 +40,7 @@ const Contact = () => {
    
                         <ContactLinks  >
                                 <TbPhoneCall className="text-2xl text-green-500"/>
-                                     9629245653
+                                7010372443
                         </ContactLinks>
    
                                    
